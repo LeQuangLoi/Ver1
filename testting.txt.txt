@@ -1,3 +1,1 @@
-this is testting  abc
-this is testting  abc Ver1 editting
-edit new is branch testtingnew code by branch master
+delete code by GitV1
